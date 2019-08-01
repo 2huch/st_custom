@@ -518,4 +518,5 @@ ResourcePref resources[] = {
     { "chscale",        FLOAT,   &chscale },
     { "borderpx",       INTEGER, &borderpx },
     { "fxbackground",   INTEGER, &defaultbg },
+    { "fxforeground",   INTEGER, &defaultfg },
 };
