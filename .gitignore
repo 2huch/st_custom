@@ -1,6 +1,5 @@
 src/st
 src/*.o
-src/*.def*
 src/*.orig
 src/*.rej
 
